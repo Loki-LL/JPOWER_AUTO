@@ -18,12 +18,6 @@ a:hover, a:focus {
     overflow-x: hidden;
 }
 
-.highlight {
-    font-weight: bold;
-    color: white;
-    font-size: 2em;
-}
-
 .tm-section {
     background-position: center center;
     background-size: cover;
@@ -294,7 +288,7 @@ p {
     }
 }
 
-@media screen and (max-width: 767px) {  /*rearrange the layout of images in Gallery section*/
+@media screen and (max-width: 767px) {
     .tm-gallery-grid {
         display: grid;
         grid-template-columns: repeat(2, 1fr); /* Two columns */
