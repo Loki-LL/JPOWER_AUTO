@@ -18,6 +18,14 @@ a:hover, a:focus {
     overflow-x: hidden;
 }
 
+.highlight {
+    font-weight: bold;
+    color: white;
+    background-color: #FFFF99;
+    padding: 2px 4px;
+    border-radius: 3px;
+}
+
 .tm-section {
     background-position: center center;
     background-size: cover;
